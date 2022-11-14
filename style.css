@@ -1,0 +1,39 @@
+.mylikes {
+color: cyan;
+font-size: 50px;
+}
+
+#lyk {
+color: darkblue;
+font-size: 30px;
+}
+
+.favorites {
+color: blue;
+font-size: 40px;
+}
+
+#favs {
+color: plum;
+font-size: 35px;
+}
+
+.mydislikes{
+color: greenyellow;
+font-size: 50px;
+}
+
+#dislyk{
+color: green;
+font-size: 30px;
+}
+
+.unlike{
+color: palevioletred;
+font-size: 40px;
+}
+
+#peeves{
+color: navy;
+font-size: 35px;
+}
